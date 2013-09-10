@@ -7,7 +7,7 @@
 
 `???`标记的地方表示此处译文有待商榷。
 
-本访谈译者：[冷静](https://github.com/AlexXXXX1988)、[尤晓斌](https://github.com/AlexXXXX1988)
+本访谈译者：[冷静](https://github.com/angelleng)、[尤晓斌](https://github.com/AlexXXXX1988)
 、[霍志骥](https://github.com/huozhiji)
 
 
