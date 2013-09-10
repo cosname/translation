@@ -1,7 +1,7 @@
 郁彬老师的采访稿
 ===============
 
-该访谈由施涛老师采访，原文刊登在ICSA上： http://t.cn/zQAW0EQ
+该访谈由施涛老师采访，原文刊登在ICSA上： http://www.icsa.org/bulletin/issues/ICSABulletin13Jul.pdf
 
 我们的翻译工作征得了郁彬和施涛的同意。
 
