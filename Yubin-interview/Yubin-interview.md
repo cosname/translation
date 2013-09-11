@@ -8,7 +8,7 @@
 她发表了70余篇科学杂志在顶尖的期刊上，涉及统计、机器学习、信息论、信号处理、遥感、神经科学和网络研究等领域。她在许多期刊都担任过编委，比如统计年刊（Annals of Statistics），美国统计协会期刊（Journal of American Statistical Association），机器学习研究期刊（Journal of Machine Learning）和Technometrics。
 
 
-她是美国文艺科学学院（American Academy of Arts and Science）的院士。她在2006年当选Guggenheim Fellow，2012年发表了伯努利协会的塔基纪念演讲(Tukey Memorial Lecturer)。她还是2012年首届许宝騄奖的三位获得者之一。她也是AAAS（文艺科学进步协会），IEEE、IMS和ASA的会士。
+她是美国艺术与科学学院（American Academy of Arts and Science）的院士。她在2006年当选Guggenheim Fellow，2012年发表了伯努利协会的塔基纪念演讲(Tukey Memorial Lecturer)。她还是2012年首届许宝騄奖的三位获得者之一。她也是AAAS（文艺科学进步协会），IEEE、IMS和ASA的会士。
 
 
 她是IMS（Institute of Mathematical Statistics数理统计学院）的下一任主席。她过去是SAMSI的国家科学委员会（National Scientific Committee）的联合主席，并且是UCLA所属IPAM的科学顾问组，以及布朗大学ICERM的管理组的成员。
