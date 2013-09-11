@@ -208,7 +208,7 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 其实在贝尔实验室的时候，我和DianeLambert, Bill Cleveland 相处十分愉快，他们是很好的上司。我完全不敢想象，在业界里，到哪去找比他们还棒的上司！而 MarkHansen呢，我更愿意称他为“玩伴”而不仅仅是同事。我们开始着手一些有趣的工作，而且彼此给对方以信心。现在呢，Mark在多媒体领域已经是一个成功人士。我记得当时他用贝尔实验室网站的数据合成了一首歌，在我听来像是 newwave的歌。这便是数据之美啊！我们相互支持，坚信这种动力能激励我们各自从事的工作！
 
 
-我和Mark共事的第一件事就是为贝尔实验室招人，随后我们俩一起参加了MSRI(Mathematical Sciences Research Institute)的培训——关于nonlinear regression和classification的。我们一同引导大家讨论boosting和optimization。在培训中我认识了Amy Braverman，其后我同她在remote sensing和其他统计领域有着长期合作。而在那得第一篇文章就是和你一同协作的，关于运用多角度卫星MSIR一个像来识别北极上空的云层。这其实是我第一次用真实的数据做研究。而你呢，当时也勇敢的读完上千页的JPL(Jet Propulsion Laboratory) MISR组的数据收集和使用手册。我们当时同PennState Meteorology的Eugene的合作也十分愉快。我现在的团队还在继续使用MISR的数据做高清（千米级的）遥感成像(aerosol retrieval)，通过这些数据来监测诸如北京等一些城市的污染情况（运用空气污染指数AOD, Aerosol Optical Depth）。这个项目是同北大教授Ming Jiang共同合作的。
+我和Mark共事的第一件事就是为贝尔实验室招人，随后我们俩一起参加了[MSRI(Mathematical Sciences Research Institute)](http://en.wikipedia.org/wiki/Mathematical_Sciences_Research_Institute)的培训——关于[nonlinear regression](http://en.wikipedia.org/wiki/Nonlinear_regression)和[classification](http://en.wikipedia.org/wiki/Classification)的。我们一同引导大家讨论[boosting](http://en.wikipedia.org/wiki/Boosting)和[optimization](http://en.wikipedia.org/wiki/Optimization)。在培训中我认识了Amy Braverman，其后我同她在[remote sensing](http://en.wikipedia.org/wiki/Remote_sensing)和其他统计领域有着长期合作。而在那得第一篇文章就是和你一同协作的，关于运用多角度卫星MSIR一个像来识别北极上空的云层。这其实是我第一次用真实的数据做研究。而你呢，当时也勇敢的读完上千页的[JPL(Jet Propulsion Laboratory)](http://en.wikipedia.org/wiki/Jpl) MISR组的数据收集和使用手册。我们当时同PennState Meteorology的Eugene的合作也十分愉快。我现在的团队还在继续使用MISR的数据做高清（千米级的）遥感成像(aerosol retrieval)，通过这些数据来监测诸如北京等一些城市的污染情况（运用空气污染指数[AOD, Aerosol Optical Depth](http://en.wikipedia.org/w/index.php?title=Aerosol_Optical_Depth&redirect=no)）。这个项目是同北大教授Ming Jiang共同合作的。
 
 
 我感觉我身边的合作者对我的工作给予深刻的影响。慢慢地你会觉得，这么多有趣的人在跟你从事着同样的工作，同起同落，想来就觉得激动人心。你同他们一起进行科学研究，彼此分享和构筑各自的想法，或许这就是科研工作最浪漫的地方了！
@@ -227,7 +227,7 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 
 
 郁：
-我觉得这是最适合跨领域研究的组织架构。在这里即便一流人才也很恭谦，有时跟典型的高校教师比起来，都很难看到自我意识。起码我所在的团队是这样的。在这里不乏一流的统计学者，Colin Mallows，为人很低调。像Tukey，Shannon都在这里工作过。连新近组成的AT&T团队都是当年获得Netflix奖那个团队的一部分。他们唯一的使命就是解决问题，其他的研究所很难做到这种程度。贝尔实验室太特别了，在这里我得到很多支持，最终朝着跨学科研究开足马力。当我从事speech compression研究的时候，Bill Cleveland找到我说有个tomography的课题要给我们做。近期出版了一本关于贝尔实验室的书，我很愿意把它推荐给大家，尤其推荐给大量从事跨学科研究的人！这本书叫：Bell Labs and the Great Age of American Innovation (by John Gertner)。
+我觉得这是最适合跨领域研究的组织架构。在这里即便一流人才也很恭谦，有时跟典型的高校教师比起来，都很难看到自我意识。起码我所在的团队是这样的。在这里不乏一流的统计学者，Colin Mallows，为人很低调。像Tukey，Shannon都在这里工作过。连新近组成的AT&T团队都是当年获得[Netflix](http://en.wikipedia.org/wiki/Netfliks)奖那个团队的一部分。他们唯一的使命就是解决问题，其他的研究所很难做到这种程度。贝尔实验室太特别了，在这里我得到很多支持，最终朝着跨学科研究开足马力。当我从事speech compression研究的时候，Bill Cleveland找到我说有个[tomography](http://en.wikipedia.org/wiki/Tomography)的课题要给我们做。近期出版了一本关于贝尔实验室的书，我很愿意把它推荐给大家，尤其推荐给大量从事跨学科研究的人！这本书叫：[Bell Labs and the Great Age of American Innovation (by John Gertner)](http://www.amazon.com/The-Idea-Factory-American-Innovation/dp/0143122797)。
 
 
 施：
@@ -238,7 +238,7 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 太对了！到了午餐时间大家都一起出来吃饭了——一个很好的习俗。仔细想想，能跳出现有的学术领域是一种优势所在，而跟Mark的接触更使我获益匪浅！我们都想跳出固有的思维定势，而且我们做到了！
 
 
-与此同时，我在贝尔实验室开始一段和Peter Bühlmann的长期合作。Peter是我很要好的朋友！我们一同研究机器学习里的bagging 和 boosting。当时是1999年，Peter邀请我去ETH和他一起研究bagging，然后我们就开始了合作。我们写了两篇关于boosting的文章，比如说我们发现了L2Boosting's resistance to over-fitting is due to an incorrect measure of the complexity by the iteration number。我们最近也和几个年轻的研究人员合作写了篇关于causal graphical model的文章。
+与此同时，我在贝尔实验室开始一段和Peter Bühlmann的长期合作。Peter是我很要好的朋友！我们一同研究机器学习里的bagging 和 boosting。当时是1999年，Peter邀请我去[ETH](http://en.wikipedia.org/wiki/ETH)和他一起研究bagging，然后我们就开始了合作。我们写了两篇关于boosting的文章，比如说我们发现了L2Boosting's resistance to over-fitting is due to an incorrect measure of the complexity by the iteration number。我们最近也和几个年轻的研究人员合作写了篇关于causal graphical model的文章。
 
 
 Leo Breiman对我的影响是引领我走向机器学习的重要因素。他是一个独具一格的人。在机器学习走进统计学家眼界的头几年中，可以说他是不折不扣的拓荒者！记得在某次去往Evans Hall的路上，他和我谈论起resistance to over-fitting。随着我和 Peter 完成了几篇关于boosting的文章后，我真正找到了我的兴趣所在，这便是统计机器学习 (statistical machine learning)。看来，在大量可用数据需要研究的情况下，把统计分析和计算机应用相结合是很明智的做法。这十来年我对这一领域的研究仍然兴趣不减，你看这个领域不断囊括其他学科诸如自然科学，信息学和社会科学的问题。至此我开始结合批判思维和机器学习，以求更大的突破。
@@ -261,7 +261,7 @@ Leo Breiman对我的影响是引领我走向机器学习的重要因素。他是
 
 
 郁：
-Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实验室呆了一年。她是个相当有天赋的学生。我们一起研究microarray image compression，但我觉得microarray和bioinformatics是热门领域，而我更喜欢安静地长时间思考一个问题。之后我也花了不少时间在physical mapping项目上。但当我们最终把成果发布在Annals上时，这些相应的技术已经飞速进步，我们之前的成果相形见绌。我意识到紧随热门技术明显不合我的个性，我决定转向neuroscience。
+Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实验室呆了一年。她是个相当有天赋的学生。我们一起研究microarray image compression，但我觉得[microarray](http://en.wikipedia.org/wiki/Microarray)和[bioinformatics](http://en.wikipedia.org/wiki/Bioinformatics)是热门领域，而我更喜欢安静地长时间思考一个问题。之后我也花了不少时间在[physical mapping](http://en.wikipedia.org/wiki/Gene_mapping)项目上。但当我们最终把成果发布在[Annals](http://en.wikipedia.org/wiki/Annals_of_Statistics)上时，这些相应的技术已经飞速进步，我们之前的成果相形见绌。我意识到紧随热门技术明显不合我的个性，我决定转向neuroscience。
 
 
 施：
@@ -275,11 +275,11 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 之前我说过，我的第一个大的合作项目就是你参与的和JPL的合作研究，现在我们还在气溶胶反演（aerosol retrieval）方向继续做合作研究。
 
 
-紧随其后的一个合作是关于神经科学的。之所以对神经科学会感兴趣是因为在贝尔实验室的时候，我无意读到一篇Dan Yang组里的文章，这篇文章用LGN－cat数据重构一副有趣的图像——一只睡着的猫所能看到的东西！我简直不敢相信，我在这幅图里看到了树枝！
+紧随其后的一个合作是关于神经科学的。之所以对神经科学会感兴趣是因为在贝尔实验室的时候，我无意读到一篇Dan Yang组里的文章，这篇文章用[LGN](http://en.wikipedia.org/wiki/LGN)－cat数据重构一副有趣的图像——一只睡着的猫所能看到的东西！我简直不敢相信，我在这幅图里看到了树枝！
 
 
 
-回到伯克利后，我联系了UC Davis的Bruno Olshhausen，通过他我认识了一位专注前沿视觉神经学尖端的神经学科学家——Jack Gallant。因为拿到了NSF的基金和Guggenheim Fellowship，此后一年我没有在统计系从事教学工作，而来到Jack的实验室做研究。从那时起我们便开始长时间的合作研究。其后的7，8年内，我们仅仅发表了两篇文章，还有一篇正在撰写。不过我觉得基于我们俩之前的研究，想要一个有质量的新成果，就应该是这样的速度。我们合作的关于视频重现的成果在2011年年末就吸引了很多媒体的关注，其中之一就是时代周刊的50大最有影响的发明。
+回到伯克利后，我联系了[UC Davis](http://en.wikipedia.org/wiki/UC_Davis)的Bruno Olshhausen，通过他我认识了一位专注前沿视觉神经学尖端的神经学科学家——Jack Gallant。因为拿到了NSF的基金和[Guggenheim Fellowship](http://en.wikipedia.org/wiki/Guggenheim_Fellowship)，此后一年我没有在统计系从事教学工作，而来到Jack的实验室做研究。从那时起我们便开始长时间的合作研究。其后的7，8年内，我们仅仅发表了两篇文章，还有一篇正在撰写。不过我觉得基于我们俩之前的研究，想要一个有质量的新成果，就应该是这样的速度。我们合作的关于视频重现的成果在2011年年末就吸引了很多媒体的关注，其中之一就是时代周刊的50大最有影响的发明。
 
 
 头一年里我主要跟着Jack和他的学生学neuroscience的东西，此外在统计方面我为他们提供一些专业见解，我们彼此构建了一种互信有效的合作关系。因为Jack是个非常优秀的科学家，他很直率。
@@ -288,7 +288,7 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 对于那些想要从事跨学科研究的人而言，如何找到合适的合作者非常重要。当然，你还必须知道如何同别人合作。我实在不喜欢浅尝辄止的研究方式，这能出什么结果呢？在一切都进入轨道之后，我开始觉得研究的质量和水平是唯一的标准（言下之意是相对时间，选题等其他因素），特别是随时间推移回头来看这些学术成果的时候，质量显得特别重要。短期来看，也许我们能从浅尝中得到赞许，但学术研究就像是马拉松一样，不是一次亢奋的短跑。渐渐地，人们开始对你有所了解，也对你的学术研究水平有一个很准确的审视。
 
 
-近期我仍然和我的学生、我的同事一同研究sparse model和spectral clustering，我对这些课题相当感兴趣。我们大家总能形成一个整体，一同解决各种研究中碰到得问题。我常鼓励我的学生尽力研究一些理论。而我也会在理论和应用之间做一个选择，显然我们遇到的不少问题都会同时涉及这两方面的内容。
+近期我仍然和我的学生、我的同事一同研究sparse model和[spectral clustering](http://en.wikipedia.org/wiki/Spectral_clustering)，我对这些课题相当感兴趣。我们大家总能形成一个整体，一同解决各种研究中碰到得问题。我常鼓励我的学生尽力研究一些理论。而我也会在理论和应用之间做一个选择，显然我们遇到的不少问题都会同时涉及这两方面的内容。
 
 
 施：
