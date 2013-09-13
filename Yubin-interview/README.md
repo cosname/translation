@@ -8,6 +8,6 @@
 `???`标记的地方表示此处译文有待商榷。
 
 本访谈翻译由COS翻译小组策划并实践，译者有三位：[冷静](https://github.com/angelleng)、[尤晓斌](https://github.com/AlexXXXX1988)
-、[霍志骥](https://github.com/huozhiji)，其中冷静为负责人；参加校对的同学有：陈丽云、肖楠、高涛、姜晓东、牟官迅、魏太云。
+、[霍志骥](https://github.com/huozhiji)，其中冷静为负责人；参加校对的同学有：施涛、陈丽云、肖楠、高涛、姜晓东、牟官迅、魏太云。
 
 
