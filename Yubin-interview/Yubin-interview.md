@@ -124,8 +124,10 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 
 不久后我开始写我的学位论文，并完成了它。我开始找工作。我想如果我能在美国找到一个教职工作，我会很高兴，所以我申请了20多个大学。Terry 觉得这有点疯狂。1990年，我最终去了威斯康星麦迪逊，原因有很多，其中之一是为了我丈夫能有好的工作前景。
 
-![alt](https://github.com/cosname/translation/blob/master/Yubin-interview/fig/fig1-1.jpg?raw=true)
-![alt](https://raw.github.com/cosname/translation/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig1-2.jpg "郁彬在伯克利")
+![alt](./fig/fig1-1.jpg)
+![alt](./fig/fig1-2.jpg)
+
+图1 郁彬在伯克利
 
 早期职业生涯——助理教授
 ----------------------
@@ -257,8 +259,14 @@ Leo Breiman对我的影响是引领我走向机器学习的重要因素。他是
 郁：
 没错。我觉得贝尔实验室给我自由发展的空间，但不得不说在伯克利的经历也相当重要，因为伯克利迫使我自己找到自我。当时我是被系主任John Rice聘回来的。我在贝尔实验室时Michael Jordan加入了伯克利统计系和计算机系。他也写信鼓励我回来。回来之后，我仍然继续坚持我在贝尔实验室的工作内容——跨学科研究和统计机器学习。
 ![alt](http://www.stat.berkeley.edu/~yugroup/fig/yugroup_2003.jpg "Dave Graham-Squire, Gang Liang, Peng Zhao, Bin Yu, Tao Shi.")
+
+图2 郁彬2003年的团队：Dave Graham-Square ,Gang Liang, Peng Zhao, Bin Yu, Tao Shi.
+
 ![alt](http://www.stat.berkeley.edu/~yugroup/fig/yugroup_2006.jpg "Back: David Purdy, Jing Lei, Ethan Anderes, Guilherme Rocha. 
 Front: Kei Kobayashi, Nicolai Meinshausen, Bin Yu, Vincent Vu, Nate Coehlo, Xing Wang.")
+
+图3 郁彬2006年的团队： Back:David Purdy, Jing Lei, Ethan Anderes, Guiherme Rocha. Front:Kei Kobayashi, Nicolai Meinshausen, Bin Yu, Vincent Vu, Nate Coehlo, Xing Wang.
+
 
 
 
@@ -300,6 +308,9 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 ![alt](http://www.stat.berkeley.edu/~yugroup/fig/yugroup_2009.png "Back: Yueqing Wang, Hongwei Li, Harry Kim, Bin Yu, Chinghway Lim, Kyle Jia. 
 Front: Garvesh Raskutti, Karl Rohe, Yuval Benjamini.")
 
+图4 郁彬2009年的团队。后排：Yuqing Wang, Hongwei Li, Harry Kim , Bin Yu, Chinghway Lim, Kyle Jia.前排：GarveshRaskutti, Karl Rohe, Yuval Benjamini.
+
+
 
 施：
 兼备理论和应用，这好像是统计学独有的特点吧？其他的学科比如说物理，或者数学，或者生物，它们要么很理论，要么很应用。所以我觉得统计学最迷人的地方可能就是它把二者都结合到一起了。
@@ -310,6 +321,7 @@ Front: Garvesh Raskutti, Karl Rohe, Yuval Benjamini.")
 
 ![alt](http://www.stat.berkeley.edu/~yugroup/fig/yugroup_2012.png "Back: Hanzhong Liu, Antony Joseph, Thibault Vatter, Geoffrey Schiebinger, Adam Bloniarz, Ling Hong, Trine Abrahamsen, Taesup Moon, Xiangyu Chang, Siqi Wu, Hau-tieng Wu. Front: Toshiyasu Matsushima, Xiaoling Lu, Yuval Benjamini, Bin Yu, Hongwei Li, Guoqiang Cai.")
 
+图5 郁彬2012年的团队。后排：Hanzhong Liu, Antony Joseph,ThibaultVatter,GeoffreySchiebinger, Adam Blonaiarz , Ling Hong, Trine Abrahamsen, Taesup Moon, Xiangyu Chang, SiQi Wu, Hau-tieng Wu, 前排：Toshiyasu Matsushima, Xiaoling Lu, Yuval Benjamini , Bin Yu, Hongwei LI, Guoqiang Cai.
 
 施：
 这也是大家都感兴趣的一个问题：你有那么多的项目要做，那么多学生要带，还有其他的职责，你是怎么安排你的时间的？
