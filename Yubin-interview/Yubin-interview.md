@@ -310,7 +310,7 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 统计现在的地位
 ---------------
 
-![图 5 郁彬2012年的团队。后排：Hanzhong Liu, Antony Joseph,Thibault Vatter,Geoffrey Schiebinger, Adam Blonaiarz , Ling Hong, Trine Abrahamsen, Taesup Moon, Xiangyu Chang, SiQi Wu, Hau-tieng Wu, 前排：Toshiyasu Matsushima, Xiaoling Lu, Yuval Benjamini , Bin Yu, Hongwei LI, Guoqiang Cai.](/Yubin-interview/fig/fig5.png)
+![图 5 郁彬2012年的团队。后排：Hanzhong Liu, Antony Joseph,Thibault Vatter,Geoffrey Schiebinger, Adam Blonaiarz , Ling Hong, Trine Abrahamsen, Taesup Moon, Xiangyu Chang, SiQi Wu, Hau-tieng Wu, 前排：Toshiyasu Matsushima, Xiaoling Lu, Yuval Benjamini , Bin Yu, Hongwei LI, Guoqiang Cai.](/https://github.com/cosname/translation/blob/master/Yubin-interview/fig/fig5.png
 
 施：
 上面我们已经了解到你从年轻到现在的成长过程。除了从你的亲身经历中学习，能听听您关于统计学现状的看法也令人受益匪浅。除此之外，您也可以谈谈关于我们统计人如何适应其他的领域，对于社会我们有什么样的责任。
