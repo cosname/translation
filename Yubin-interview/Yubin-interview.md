@@ -312,7 +312,7 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 郁：
 我感觉我有些疲于奔命，不过还好。人的状态总有起伏，有时候我觉得得心应手，有时候则不然。我一直在接新的研究课题，同新的人合作，挺具挑战的。不过我觉得有一样很重要的东西帮我应付这一切——那就是未雨绸缪。千万不要等到事情来临了才想要怎样应对危机，一切都迟了。预先做好计划，这样压力就小一些。我碰到让我好奇的东西时，我就争取马上学一点。我认为所有事物总有它们内在的联系，千丝万缕，而且都是殊途同归的。表面上看我好像是随随便便选个东西就开始做，其实不然。我的好奇心连接着这些东西。我觉得看到的事物都是相互联系的。既然我是这样的人，我的选择也应该是条理相连的。
 
-![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig5.png  '图 4 郁彬2009年的团队 后排：Yuqing Wang, Hongwei Li, Harry Kim , Bin Yu, Chinghway Lim, Kyle Jia.前排：Garvesh Raskutti, Karl Rohe, Yuval Benjamini.')
+![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig5.png)
 
 统计现在的地位
 ---------------
