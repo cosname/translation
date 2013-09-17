@@ -124,6 +124,8 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 
 不久后我开始写我的学位论文，并完成了它。我开始找工作。我想如果我能在美国找到一个教职工作，我会很高兴，所以我申请了20多个大学。Terry 觉得这有点疯狂。1990年，我最终去了威斯康星麦迪逊，原因有很多，其中之一是为了我丈夫能有好的工作前景。
 
+![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig1-1.jpg)
+![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig1-2.jpg '郁彬在伯克利')
 
 早期职业生涯——助理教授
 ----------------------
@@ -255,6 +257,8 @@ Leo Breiman对我的影响是引领我走向机器学习的重要因素。他是
 郁：
 没错。我觉得贝尔实验室给我自由发展的空间，但不得不说在伯克利的经历也相当重要，因为伯克利迫使我自己找到自我。当时我是被系主任John Rice聘回来的。我在贝尔实验室时Michael Jordan加入了伯克利统计系和计算机系。他也写信鼓励我回来。回来之后，我仍然继续坚持我在贝尔实验室的工作内容——跨学科研究和统计机器学习。
 
+![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig2.jpg '图 2 郁彬2003年的团队。Dave Graham-Square ,Gang Liang, Peng Zhao, Bin Yu, Tao Shi.')
+
 
 施：
 你也开始带了不少学生吧？
@@ -290,6 +294,8 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 
 近期我仍然和我的学生、我的同事一同研究sparse model和spectral clustering，我对这些课题相当感兴趣。我们大家总能形成一个整体，一同解决各种研究中碰到得问题。我常鼓励我的学生尽力研究一些理论。而我也会在理论和应用之间做一个选择，显然我们遇到的不少问题都会同时涉及这两方面的内容。
 
+![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig3.png '图 3 郁彬2006年的团队. Back:David Purdy, Jing Lei, Ethan Anderes, Guiherme Rocha. Front:Kei Kobayashi, Nicolai Meinshausen, Bin Yu, Vincent Vu, Nate Coehlo, Xing Wang.’）
+
 
 施：
 兼备理论和应用，这好像是统计学独有的特点吧？其他的学科比如说物理，或者数学，或者生物，它们要么很理论，要么很应用。所以我觉得统计学最迷人的地方可能就是它把二者都结合到一起了。
@@ -306,11 +312,11 @@ Rebecka Jornsten是我第一个统计的学生，她曾跟我一同在贝尔实�
 郁：
 我感觉我有些疲于奔命，不过还好。人的状态总有起伏，有时候我觉得得心应手，有时候则不然。我一直在接新的研究课题，同新的人合作，挺具挑战的。不过我觉得有一样很重要的东西帮我应付这一切——那就是未雨绸缪。千万不要等到事情来临了才想要怎样应对危机，一切都迟了。预先做好计划，这样压力就小一些。我碰到让我好奇的东西时，我就争取马上学一点。我认为所有事物总有它们内在的联系，千丝万缕，而且都是殊途同归的。表面上看我好像是随随便便选个东西就开始做，其实不然。我的好奇心连接着这些东西。我觉得看到的事物都是相互联系的。既然我是这样的人，我的选择也应该是条理相连的。
 
+![alt](https://github.com/cosname/translation/tree/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig5.png  '图 4 郁彬2009年的团队 后排：Yuqing Wang, Hongwei Li, Harry Kim , Bin Yu, Chinghway Lim, Kyle Jia.前排：Garvesh Raskutti, Karl Rohe, Yuval Benjamini.')
 
 统计现在的地位
 ---------------
 
-![图 5 郁彬2012年的团队。后排：Hanzhong Liu, Antony Joseph,Thibault Vatter,Geoffrey Schiebinger, Adam Blonaiarz , Ling Hong, Trine Abrahamsen, Taesup Moon, Xiangyu Chang, SiQi Wu, Hau-tieng Wu, 前排：Toshiyasu Matsushima, Xiaoling Lu, Yuval Benjamini , Bin Yu, Hongwei LI, Guoqiang Cai.](https://github.com/cosname/translation/blob/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig1-1.jpg)
 
 施：
 上面我们已经了解到你从年轻到现在的成长过程。除了从你的亲身经历中学习，能听听您关于统计学现状的看法也令人受益匪浅。除此之外，您也可以谈谈关于我们统计人如何适应其他的领域，对于社会我们有什么样的责任。
