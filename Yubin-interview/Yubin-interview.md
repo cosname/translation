@@ -440,7 +440,7 @@ Front: Garvesh Raskutti, Karl Rohe, Yuval Benjamini.")
 
 
 施：
-是的。我有些同事很少关注统计年鉴。他们觉得出版刊物只关心学术理论成果，但实际上不是这个样子的。
+是的。我有些同事很少关注统计年刊（Annals of Statistics）。他们觉得出版刊物只关心学术理论成果，但实际上不是这个样子的。
 
 
 郁：
