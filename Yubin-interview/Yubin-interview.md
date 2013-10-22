@@ -130,16 +130,15 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 <<<<<<< HEAD
 ![alt](./fig/fig1-1.jpg)
 ![alt](./fig/fig1-2.jpg)
-
 图1 郁彬和伯克利统计系“Bootstrap”足球队队员。
 =======
 ![alt](https://github.com/cosname/translation/blob/master/Yubin-interview/fig/fig1-1.jpg?raw=true)
-
-图二 郁彬和她的母亲及导师Terry 和(看不清）夫妇在毕业典礼上
 ![alt](https://raw.github.com/cosname/translation/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig1-2.jpg "郁彬在伯克利"）
 
-图三 郁彬和导师Le Cam
+
 >>>>>>> parent of a018f0e... add image 6
+图二 郁彬和她的母亲及导师Terry 和(看不清）夫妇在毕业典礼上  
+图三 郁彬和导师Le Cam  
 
 早期职业生涯——助理教授
 ----------------------
