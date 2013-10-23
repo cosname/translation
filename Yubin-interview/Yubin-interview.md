@@ -127,17 +127,15 @@ Terry是一个很棒的导师，对我的影响很大。和他一起工作的时
 
 不久后我开始写我的学位论文，并完成了它。我开始找工作。我想如果我能在美国找到一个教职工作，我会很高兴，所以我申请了20多个大学。Terry 觉得这有点疯狂。1990年，我最终去了威斯康星麦迪逊，原因有很多，其中之一是为了我丈夫能有好的工作前景。
 
-<<<<<<< HEAD
+
 ![alt](./fig/fig1-1.jpg)
-![alt](./fig/fig1-2.jpg)
+
 图1 郁彬和伯克利统计系“Bootstrap”足球队队员。
-=======
-![alt](https://github.com/cosname/translation/blob/master/Yubin-interview/fig/fig1-1.jpg?raw=true)
-![alt](https://raw.github.com/cosname/translation/8164ae390791aed876e22c93f200aceb2d76ef6a/Yubin-interview/fig/fig1-2.jpg "郁彬在伯克利"）
 
+![alt](./fig/fig1-2.jpg)
 
->>>>>>> parent of a018f0e... add image 6
-图二 郁彬和她的母亲及导师Terry 和(看不清）夫妇在毕业典礼上  
+图二 郁彬和她的母亲及导师Terry 和(看不清）夫妇在毕业典礼上 
+
 图三 郁彬和导师Le Cam  
 
 早期职业生涯——助理教授
