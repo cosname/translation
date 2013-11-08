@@ -4,6 +4,10 @@ Terry Speed:2013年科学首相奖得主
 
 *—Terry Speed*
 
+![alt](./fig/Terry-Speed-1-300x200.jpg)
+
+图1 Terry Speed
+
 用数字同癌症抗争
 ----------
 [Terry Speed](http://en.wikipedia.org/wiki/Terry_Speed)可从不觉得能很快在媒体的头条上看到类似“统计学家可以治愈癌症”标题，不过他坚信数学和统计学可以有效地帮助研究者认识癌症背后的诱因，从而减少手术的必要性。身兼数学家和统计学家，Terry笔下诞生了不少很高明的学术著作，但这些文章却少有人可以读懂。除此之外，他也有学术成就以外的另一面，他会出席法庭陪审，帮助农户和采钻矿工，他也会为生物学家提供统计工具以解决基因的进化问题。
@@ -164,3 +168,14 @@ Terry总是和澳洲有扯不断的联系。到伯克利后没多久，他就回
 
 1965 – 1969    Tutor/Senior Tutor/Lecturer, Department of Mathematics, Monash University
 
+![alt](./fig/Terry-Speed-11-1024x681.jpg)
+
+图2 Terry Speed（由科学首相奖组委会供图）
+
+![alt](./fig/Terry-Speed-2-1024x682.jpg)
+
+图3 Terry Speed（由WEHI供图）
+
+![alt](./fig/Terry-Speed-21-1024x681.jpg)
+
+图4 Terry Speed（由WEHI供图）
