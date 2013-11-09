@@ -52,10 +52,10 @@ Terry总是和澳洲有扯不断的联系。到伯克利后没多久，他就回
 
 扩展阅读
 -------
-[http://www.wehi.edu.au/faculty_members/professor_terry_speed](http://www.wehi.edu.au/faculty_members/professor_terry_speed)
+[WEHI Terry Speed主页](http://www.wehi.edu.au/faculty_members/professor_terry_speed)
 
 
-[http://vcresearch.berkeley.edu/terry-speed](http://vcresearch.berkeley.edu/terry-speed)
+[UC Berkeley Terry Speed主页](http://vcresearch.berkeley.edu/terry-speed)
 
 
 ###学历
