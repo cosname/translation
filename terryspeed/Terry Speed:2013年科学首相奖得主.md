@@ -24,7 +24,7 @@ Terry现在供职的WEHI医学研究所在墨尔本市中心，离他以前就�
 
 若要说Terry最终从事医药研究的原因，多半可以归结于他早年不幸的回忆——他的肺部曾经因细菌感染患上了支气管扩张。他回忆道：“除了去医院里清肺，我成天都只能呆在家里。”最终他不得不在16岁时做一次切除肺叶的手术。要说这次手术最显著的作用就是他的健康状况有了明显的好转，随后一年他就参加了赛艇比赛，而且从那以后跑步成了他生活必不可少的一项运动。除此之外，这次手术还潜移默化地在他内心深处种下了医学研究的兴趣之种。
 
-1960年，是Terry在University High School的最后一年。就在这一年，附近WEHI医学研究所的免疫学家[Frank Macfarlane Burnet](http://en.wikipedia.org/wiki/Frank_Macfarlane_Burnet)获得了诺贝尔生理学奖。之前和Terry共享了学校奖学金的[Suzanne Cory](http://en.wikipedia.org/wiki/Suzanne_Cory)不久升任WEHI的主管，其后便怂恿他最终去了WEHI。
+1960年，是Terry在University High School的最后一年。就在这一年，附近WEHI医学研究所的免疫学家[Frank Macfarlane Burnet](http://en.wikipedia.org/wiki/Frank_Macfarlane_Burnet)获得了诺贝尔生理学奖。毕业时和Terry共享了学校奖学金的[Suzanne Cory](http://en.wikipedia.org/wiki/Suzanne_Cory)日后成为了WEHI的主管，并最终把Terry也劝到了WEHI。
 
 第二年，Terry开始他的医学科学双学位，可仅仅过了一个学期他便意识到纯粹的医学其实并不适合他。他说：“其实我对实验室的工作可没有丝毫激情，我才不想成天盯着显微镜，解剖小白鼠！”。因此，他转向专攻数学和统计学的理学学位，但他还保留着自己对医学的兴趣，并同时接手了一个关于突变基因存活模式的荣誉项目（honours project）。 他说：“基因数据及理论推导仿佛与生俱来就特别对数学家的胃口！”
 
