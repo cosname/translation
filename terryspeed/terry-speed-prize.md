@@ -167,14 +167,3 @@ Terry总是和澳洲保持着联系。到伯克利后没多久，他就回到澳
 
 1965 – 1969    Tutor/Senior Tutor/Lecturer, Department of Mathematics, Monash University
 
-![alt](./fig/Terry-Speed-11-1024x681.jpg)
-
-图2 Terry Speed（由科学首相奖组委会供图）
-
-![alt](./fig/Terry-Speed-2-1024x682.jpg)
-
-图3 Terry Speed（由WEHI供图）
-
-![alt](./fig/Terry-Speed-21-1024x681.jpg)
-
-图4 Terry Speed（由WEHI供图）
