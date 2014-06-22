@@ -2,9 +2,15 @@ The following column is to appear in the July/Aug (2014) Issue of IMS Bulletin (
 
 # Institute of Mathematical Statistics (IMS): A Cross-continent Human Network (Free Membership for Students)
 
+郁彬
+
 Bin Yu
 
+国际数理统计学会主席，加州大学伯克利分校统计系、电子工程与计算机科学系教授
+
 IMS President, and Chancellor's Professor of Statistics and EECS, UC Berkeley
+
+[http://statistics.berkeley.edu/~binyu](http://statistics.berkeley.edu/~binyu)
 
 [http://statistics.berkeley.edu/~binyu](http://statistics.berkeley.edu/~binyu)
 
@@ -20,9 +26,15 @@ The second indispensable (and cross-continent) human network of IMS is the peopl
 
 The third human network of IMS is through the IMS committees, which are appointed by the IMS president in consultation with the Past President and President Elect (with possible suggestions from the Council).
 
+国际数理统计学会颁发若干荣誉奖项，如Wald讲座、Neyman讲座、Rietz讲座、Le Cam讲座，以及八个荣誉奖章讲座。**对于许多大学中的晋升或升职，这些奖项是受到高度认可和重视的，并且通常是获得超越常规认可与加薪的基础。此外，对于大学中各个级别的评价和擢升，专业服务都是考量因素，而对于资深教员，校方通常也要求其在专业团体中担任领导角色。要逐渐步入领导角色，在IMS委员会、理事会或IMS期刊进行服务是第一步，而加入IMS委员会需要会员资格。**
+
 IMS gives prestigious awards such as Wald, Neyman, Rietz, and Le Cam and eight Medallion Lectures. **For advancements/promotions in many universities, these awards are highly recognized and valued and often are the basis for more than normal recognitions and salary increases. Moreover, professional service is expected for reviews and promotions in universities at all levels, and leadership in professional societies is often expected for senior faculty members. To ease into leadership roles in IMS, serving on IMS committees or council, or on editorial boards of IMS journals is a first step and IMS committees require membership.**
 
+对于有着共同兴趣的人群，IMS拥有特别兴趣小组的组织架构（[http://imstat.org/groups/](http://imstat.org/groups/)）来让IMS内部形成小的人际网络。以这个关于金融的活跃小组为例，它在每年举办一次会议（[http://www.ieor.berkeley.edu/~xinguo/FPS/](http://www.ieor.berkeley.edu/~xinguo/FPS/)）；而另外两个类似于小组的IMS社团是国际数理统计学会中国分会（IMS-China）和亚洲与环太平洋地区分会（IMS-Asia Pacific Rim），它们定期在相应的地区举办会议。国际数理统计学会也与伯努利学会（[http://www.bernoulli-society.org/](http://www.bernoulli-society.org/)）以及国际贝叶斯分析协会（ISBA）（[http://bayesian.org/](http://bayesian.org/)）提供联合会员资格。
+
 For a group of people with a shared interest, IMS has a special interest group structure ([http://imstat.org/groups/](http://imstat.org/groups/)) to allow a small human network form within IMS. Such an active group is on finance and it holds a conference every year ([http://www.ieor.berkeley.edu/~xinguo/FPS/](http://www.ieor.berkeley.edu/~xinguo/FPS/)) and two other group-like IMS communities are IMS-China and IMS-Asia Pacific Rim, which hold regular conferences in the respective regions. IMS also offer joint memberships with Bernoulli Society ([http://www.bernoulli-society.org/](http://www.bernoulli-society.org/)) and International Society of Bayesian Analysis (ISBA) ([http://bayesian.org/](http://bayesian.org/)).
+
+总而言之，在信息技术的时代，我们职业生活中的重要决策依然是由人做出的（比如，是否接收文章、雇佣、授奖、授予终身教职）。人际网络在今天较以往任何时候正在变得更加重要，或者说至关重要，因为我们总是被过量的信息所淹没。在我看来，对于需要高效使用的有限数量的时间和精力来说，换言之，例如，决定去阅读哪些论文和去听哪些报告，可信赖的人的观点是我们最佳的导引。通过国际数理统计学会的会议、委员会、编辑部，以及小组，我们可以遇到合作者、潜在的审稿人、（在招聘会上遇到）未来的雇主——这些人都是潜在的评估者（例如，评审终身教职、写升职信的人），正因如此，他们可以引领我们迎接世界范围内的就业机会。
 
 In summary, in the age of information technology, important decisions in our professional life are still made by humans (e.g. paper acceptance, hiring, grant awards, tenure decision). Human network is becoming more important or vital now than ever also because we are flooded with information. Trusted human opinions, in my view, are the best guides for us to use efficiently the finite amount of time and energy, that is, to decide on which papers to read and what talks to go to, for example. Through IMS conferences, committees, editorial boards, and IMS groups, one meets collaborators, potential reviewers, future employers (at job fairs) -- these people are potential evaluators (e.g. tenure reviews, promotion letter writers) and they could lead to job opportunities worldwide.
 
